@@ -17,3 +17,5 @@ This library offers a wide range of services you may not find anywhere else. The
 * **Web Development** : We have used HTML, CSS, and some Python modules to develop a web page. The home page of our web page consists of books, news, videos, blogs, and some text box regarding Cryptocurrencies. We have appended our prediction table into a CSV file then using pandas we created a HTML web page so that we can link it with our home page.
 ## Outcome
 ![image](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/a5808111-0501-4b46-98f1-4d0200e0a4d2)
+![Screenshot 2023-06-20 014212](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/c988beb0-ebe8-4322-ac35-0c185181126a)
+
