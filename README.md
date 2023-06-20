@@ -13,7 +13,8 @@ This library offers a wide range of services you may not find anywhere else. The
 ![Screenshot 2023-05-21 163114](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/6ce9d2fd-7899-48ba-b1fa-b93975f0d99d)
 ### Prediction Model
 ![Screenshot 2023-05-21 201429](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/afdb0950-6f98-4450-86d0-23ec97ff1728)
-
+### Dataflow Design
+![Screenshot 2023-06-20 170309](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/6239273e-1579-4f8d-bc4a-e951cb953d1e)
 ## Overview
 * **Dataset Collection**: we have Collected data in the form of CSV files from reputed websites. Also, those Datasets are posted in this repository named:
  1.  Bitcoinprice_dataset.csv
