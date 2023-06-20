@@ -27,7 +27,7 @@ This library offers a wide range of services you may not find anywhere else. The
   
 ## Result
 ### Webpage
-![Screenshot 2023-06-20 032937](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/e962ffd7-47a2-474e-8827-5a73b0fbb476)
+![Screenshot 2023-06-20 163510](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/7820e6bc-040d-4147-a72a-fdae047932f1)
 ![Screenshot 2023-06-20 014212](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/c988beb0-ebe8-4322-ac35-0c185181126a)
 ## Pridiction Model
 ### Bitcoin
@@ -36,6 +36,8 @@ This library offers a wide range of services you may not find anywhere else. The
 ![image](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/4c088755-8ec5-4086-a1cb-91d03766ce6a)
 ### Ripple
 ![image](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/99d75eb1-3ed8-4fce-89f0-44c809479f13)
+### Recomendation Engine
+![Screenshot 2023-06-20 163558](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/7d143258-0e80-4066-9dbf-01bfa658ed0b)
 
 
 
