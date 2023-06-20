@@ -24,6 +24,7 @@ This library offers a wide range of services you may not find anywhere else. The
   ![image](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/cddcb589-aac6-4f0e-b775-7efac4044eac)
   
 * **Web Development** : We have used HTML, CSS, and some Python modules to develop a web page. The home page of our web page consists of books, news, videos, blogs, and some text box regarding Cryptocurrencies. We have appended our prediction table into a CSV file then using pandas we created a HTML web page so that we can link it with our home page.
+*  **Recomendation Engine**: We integrate news.api data for making a recommendation engine which will help our user to stay updated on the latest news about the crypto market.
   
 ## Result
 ### Webpage
