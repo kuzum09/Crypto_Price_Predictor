@@ -41,6 +41,7 @@ This library offers a wide range of services you may not find anywhere else. The
 ### Recomendation Engine
 ![Screenshot 2023-06-20 163558](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/7d143258-0e80-4066-9dbf-01bfa658ed0b)
 
-
+## PPT
+For PPT click [here](https://www.canva.com/design/DAFmWN8Vffk/dAguqMP6sxIcDHegwse27g/edit?utm_content=DAFmWN8Vffk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
