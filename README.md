@@ -28,9 +28,21 @@ This library offers a wide range of services you may not find anywhere else. The
 *  **Recomendation Engine**: We integrate news.api data for making a recommendation engine which will help our user to stay updated on the latest news about the crypto market.
   
 ## Result
-### Webpage
+### Home Page
 ![Screenshot 2023-06-20 163510](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/7820e6bc-040d-4147-a72a-fdae047932f1)
 ![Screenshot 2023-06-20 014212](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/c988beb0-ebe8-4322-ac35-0c185181126a)
+### News
+News button in navigation bar is connected to Google FInance 
+
+![Screenshot 2023-07-27 235629](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/1bb5ed57-258e-4a83-8de9-4763d17d43b0)
+### Videos
+It connects you to youtube'and will show Crypto related Videos
+
+![image](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/95db1385-a557-4aa6-82b7-2476b97c49c2)
+### Blogs
+It will connect you to feedly website
+
+![Screenshot 2023-07-28 003808](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/c6f68f4a-79d4-4bf1-9a95-8533d4130ec6)
 ## Pridiction Model
 ### Bitcoin
 ![image](https://github.com/kuzum09/Crypto_Price_Predictor/assets/126418779/90e94481-08d9-4fab-b6a0-cda7c828c35f)
